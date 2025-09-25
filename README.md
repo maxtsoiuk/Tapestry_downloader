@@ -15,4 +15,4 @@ This script downloads all photos and videos from a Tapestry observation journal.
    git clone https://github.com/maxtsoiuk/tapestry-downloader.git
    cd tapestry-downloader
 2. Install dependencies:
-pip install -r requirements.txt
+   pip install -r requirements.txt
