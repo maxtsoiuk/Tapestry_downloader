@@ -26,8 +26,6 @@ EMAIL
 
 PASSWORD
 
-BASE_URL
-
 DOWNLOAD_FOLDER
 
 Run the script:
@@ -36,7 +34,5 @@ Run the script:
 python Tapestry.py
 
 ## Notes
-
-The script uses Selenium and automatically downloads the correct ChromeDriver version.
 
 The downloaded media files will be saved in the folder specified in DOWNLOAD_FOLDER.
